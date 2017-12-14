@@ -5,7 +5,7 @@ November, 2017
 
 | **Primary skills**   | **Primary Programs**                                                                                |
 |----------------------|-----------------------------------------------------------------------------------------------------|
-| Data visualization   | [Tableau](https://public.tableau.com/views/InjuryPrediction/Dashboard1?:embed=y&:display_count=yes) |
+| Data visualization   | [Tableau Dashboard](https://public.tableau.com/views/InjuryPrediction/Dashboard1?:embed=y&:display_count=yes) |
 | Time series modeling | R                                                                                                   |
 
 Motivation
